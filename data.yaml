@@ -1,0 +1,4 @@
+train: D:/Projek/Yolo_Kucing/images/train
+val: D:/Projek/Yolo_Kucing/images/train
+names:
+  0: Cat
